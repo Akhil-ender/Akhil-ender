@@ -1,4 +1,4 @@
- <h1 align = "center">Hi there, I'm Akhilender Kaukuntla 👋</h1>
+ <h1 align = "center">Hi there, I'm Akhilender Kaukuntla </h1>
 
 I'm passionate about __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__ and __Generative AI__. 
 
